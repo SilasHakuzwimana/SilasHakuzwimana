@@ -1,15 +1,16 @@
 # 👋 Hello, I'm Silas Hakuzwimana
 
 🚀 Passionate Web Developer & Cybersecurity Enthusiast from Rwanda  
-🎯 Focused on building secure and scalable web applications  
+🎯 Focused on building secure and scalable web & mobile applications  
 🌍 Committed to learning and contributing to open-source projects
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages:** PHP, JavaScript, Dart, SQL  
-- **Frameworks:** Bootstrap, Flutter  
+- **Languages:** PHP, JavaScript, Dart, SQL, C/C++, Python  
+- **Frameworks:** Bootstrap, Flutter, Django  
+- **Markup, Interactivity & Styling:** HTML, CSS, JavaScript  
 - **Tools & Platforms:** MySQL, GitHub, VS Code  
 - **Other Skills:** Responsive Design, Database Management, Security Awareness
 
@@ -28,15 +29,25 @@ Here are some of the projects I've worked on:
 
 ## 📜 Certifications & Learning
 
-- ✅ Ethical Hacking for Mobile Platforms – *Great Learning*
-- 🎓 Continuous learner in **web security**, **mobile app security**, and **network architecture**
+- ✅ *Ethical Hacking for Mobile Platforms* – Great Learning  
+- ✅ *Microsoft AI & Cloud Certifications:*  
+  - Enabling Digital Transformation  
+  - Generative AI Fundamentals  
+  - Azure AI Document Intelligence  
+  - Facial Recognition, Responsible AI, AI Foundry & more  
+- ✅ *Startup & Innovation Courses:*  
+  - How to Pitch Your Company  
+  - Validate Your Startup Idea  
+  - Define Your Target Audience  
+- ✅ *Software Developer Certificate* – PLP Academy  
+  *(HTML, CSS, JavaScript, Node.js, Dart & Flutter, Python, Django, SQL with MySQL)*
 
 ---
 
 ## 📬 Get in Touch
 
-- 🌐 [LinkedIn](https://linkedin.com) *(Add your link here)*  
-- 📧 silashakuzwimana@example.com *(Use your real email or GitHub contact form)*  
+- 🌐 [LinkedIn](https://linkedin.com) *(Insert your real LinkedIn URL here)*  
+- 📧 hakuzwisilas@gmail.com  
 - 🌍 Kigali, Rwanda  
 
 ---
