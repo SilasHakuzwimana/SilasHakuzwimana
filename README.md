@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Year III Computer Science & Engineering student at the University of Rwanda — CST**, and I build things that matter. My work sits at the intersection of full-stack software engineering and enterprise network infrastructure — a combination rare in the Rwandan tech market.
+I'm a **Year III Computer & Software Engineering student at the University of Rwanda — CST**, and I build things that matter. My work sits at the intersection of full-stack software engineering and enterprise network infrastructure — a combination rare in the Rwandan tech market.
 
 - 🏗️ &nbsp; I design and deliver **end-to-end digital systems** — from reactive frontends and secure APIs to enterprise WAN configurations
 - 🔐 &nbsp; **Security-first mindset** — CCNA I–III certified, applying network security principles at both the infrastructure and application layer
