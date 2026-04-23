@@ -132,16 +132,36 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎖️ GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SilasHakuzwimana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-
-  <br/>
-
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60px" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60px" alt="Yolo"/>
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60px" alt="Quickdraw"/>
+<table border="0" cellspacing="0" cellpadding="20">
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" height="90" alt="Pull Shark"/>
+      <br/><br/>
+      <strong>Pull Shark</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/%C3%97%202-00A878?style=flat-square&labelColor=0F2D4E&color=00A878" alt="x2"/>
+    </td>
+    <td width="40"></td>
+    <td align="center">
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" height="90" alt="YOLO"/>
+      <br/><br/>
+      <strong>YOLO</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/%C3%97%202-00A878?style=flat-square&labelColor=0F2D4E&color=00A878" alt="x2"/>
+    </td>
+    <td width="40"></td>
+    <td align="center">
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" height="90" alt="Quickdraw"/>
+      <br/><br/>
+      <strong>Quickdraw</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/%C3%97%202-00A878?style=flat-square&labelColor=0F2D4E&color=00A878" alt="x2"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
