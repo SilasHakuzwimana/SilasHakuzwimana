@@ -8,7 +8,7 @@
 
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-silashakuzwimana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
-[![Email](https://img.shields.io/badge/Email-hakuzwisilas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakuzwisilas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hakusilas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakusilas@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-silas--portfolio.ct.ws-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silas-portfolio.ct.ws)
 [![GitHub](https://img.shields.io/badge/GitHub-SilasHakuzwimana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilasHakuzwimana)
 
@@ -147,7 +147,7 @@ I'm a **Year III Computer Science & Engineering student at the University of Rwa
 Whether you need a **full-stack web platform**, **enterprise network infrastructure**, or a **complete digital transformation** — I bring both the code and the architecture.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakuzwisilas@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakusilas@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silas-portfolio.ct.ws)
 
 <br/>
