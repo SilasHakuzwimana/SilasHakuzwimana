@@ -174,7 +174,7 @@ Whether you need a **full-stack web platform**, **enterprise network infrastruct
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakusilas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silas-portfolio.ct.ws)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silasportfolio.ct.ws)
 
 <br/>
 
