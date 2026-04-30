@@ -9,7 +9,7 @@
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-silashakuzwimana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
 [![Email](https://img.shields.io/badge/Email-hakusilas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakusilas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-silas--portfolio.ct.ws-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silas-portfolio.ct.ws)
+[![Portfolio](https://img.shields.io/badge/Portfolio-silas--portfolio.ct.ws-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silasportfolio.ct.ws)
 [![GitHub](https://img.shields.io/badge/GitHub-SilasHakuzwimana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilasHakuzwimana)
 
 </div>
