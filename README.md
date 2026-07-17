@@ -143,7 +143,7 @@ I apply Data Structures & Algorithms principles to build high-performance system
 | 🛡️ Cybersecurity Essentials & IT Essentials | Cisco Networking Academy | ✅ Awarded |
 | 🌐 CCNA I — Introduction to Networks | Cisco Networking Academy | ✅ Awarded |
 | 🔀 CCNA II — Switching, Routing & WLANs | Cisco Networking Academy | ✅ Awarded |
-| 🏢 CCNA III — Enterprise Networking, Security & Automation | Cisco Networking Academy | ⏳ Pending Issuance |
+| 🏢 CCNA III — Enterprise Networking, Security & Automation | Cisco Networking Academy | ✅ Awarded |
 | 🚀 How to Pitch Your Company | Startup Course | ✅ Awarded |
 | 🎯 Validate Your Startup Idea | Startup Course | ✅ Awarded |
 | 👥 Define Your Target Audience | Startup Course | ✅ Awarded |
