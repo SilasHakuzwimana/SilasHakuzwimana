@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2D4E,100:00A878&height=200&section=header&text=Silas%20HAKUZWIMANA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Network%20Specialist%20%C2%B7%20UR-CST&descAlignY=58&descColor=a0f0d0&animation=fadeIn" alt="banner"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00A878&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Enterprise+Platform+Architect;Network+Infrastructure+Specialist+(CCNA+I%E2%80%93III);Security-First+Builder;UR-CST+%7C+Kigali%2C+Rwanda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00A878&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Enterprise+Platform+Architect;DSA+%26+Performance-Engineered+Systems;Network+Infrastructure+Specialist+(CCNA+I%E2%80%93III);Security-First+Builder;UR-CST+%7C+Kigali%2C+Rwanda)](https://git.io/typing-svg)
 
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-silashakuzwimana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
@@ -22,12 +22,14 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 
 - 🏗️ &nbsp; I design and deliver **end-to-end digital systems** — from reactive frontends and secure APIs to enterprise WAN configurations
 - 🔐 &nbsp; **Security-first mindset** — CCNA I–III certified, applying network security principles at both the infrastructure and application layer
+- 📐 &nbsp; **DSA-based engineering** — I leverage Data Structures & Algorithms to build high-performance, scalable systems with sub-second response times
+- 🗄️ &nbsp; **Database migration expert** — using **Prisma** (Node.js) and **Flyway** (Java) for reproducible, version-controlled schema management
 - 🎓 &nbsp; Former **acting teacher** (Mathematics, Physics, Entrepreneurship) — student success rates of **95–97%** through data-driven mentorship
 - 🏛️ &nbsp; **Class Representative**, University of Rwanda — CST
 - 🤖 &nbsp; Passionate about **AI, Robotics, and building for Africa's digital future**
 - 🌍 &nbsp; Based in **Kigali, Rwanda** — building locally, thinking globally
 
-> *"Engineer the systems. Secure the network. Measure success in outcomes."*
+> *"Engineer the systems. Secure the network. Optimize with DSA. Measure success in outcomes."*
 
 ---
 
@@ -53,10 +55,12 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -85,16 +89,41 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 
 | # | Project | Description | Stack | Impact |
 |---|---------|-------------|-------|--------|
-| 🏢 | **[Solertia Novarum Ltd - Enterprise Platform](#)** | Corporate website & admin dashboard with OTP authentication, multi-format reporting, and dynamic content management | `React 19` `TypeScript` `Node.js` `Express` `PostgreSQL` `TailwindCSS` `Docker` | 100% admin workflow automation · Production deployment |
+| 🏢 | **[Solertia Novarum Ltd - Enterprise Platform](#)** | Corporate website & admin dashboard with OTP authentication, multi-format reporting, and dynamic content management. Uses **Prisma** for type-safe database access and schema management | `React 19` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `TailwindCSS` `Docker` | 100% admin workflow automation · Production deployment |
 | 💼 | **[JobConnect - MERN Job Portal](#)** | Full-stack job portal with 2FA, role-based access, qualification matching, Cloudinary uploads & email notifications | `React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Nodemailer` | 3-tier user system · Admin approval workflows |
 | 🇷🇼 | **[Rwanda Administrative API](#)** | Open-source REST API covering Rwanda's complete administrative geography (Province → Village) | `Django` `DRF` `Python` `PostgreSQL` | Active community usage · Extensible design |
-| 🚌 | **[Online Transport System (OTS)](#)** | Logistics platform with automated vehicle scheduling, real-time fleet dashboard & REST API ecosystem | `Laravel` `Vue.js` `PostgreSQL` | 100% scheduling automation · Sub-second queries |
+| 🚌 | **[Online Transport System (OTS)](#)** | Logistics platform with automated vehicle scheduling, real-time fleet dashboard & REST API ecosystem. **DSA-optimized routing algorithms** achieving sub-second query response times | `Laravel` `Vue.js` `PostgreSQL` | 100% scheduling automation · Sub-second queries |
+| 🔧 | **[AI DevTools Benchmark API](#)** | Spring Boot REST + GraphQL API benchmarking AI coding assistants. Uses **Flyway** for version-controlled database migrations | `Java` `Spring Boot` `GraphQL` `PostgreSQL` `Flyway` `JWT` | Enterprise-grade API architecture |
 | 🏫 | **[GS Mareba IMS](#)** | Internal school management system replacing paper-based records with digital student performance tracking | `PHP` `MySQL` `Bootstrap` | **95% student success rate** achieved |
 | 📅 | **[Mass Reader Scheduler](#)** | Secure liturgical coordination platform with real-time chat, automated notifications & security-first architecture | `Node.js` `REST APIs` | Zero missed assignments post-launch |
 | 💡 | **[iTechnology System](#)** | Modular marketplace bridging tech seekers with certified specialists — roadmapped for Digital Security Compliance | `Modular Arch` `Platform Eng` | SME & government-sector ready |
 | 🎵 | **[Nyina Wa Jambo](#)** | Full-stack song management system with secure admin interface for metadata, scheduling & streaming resources | `PHP` `MySQL` | Cultural content digitized |
 | 🔒 | **[VaultCloud](#)** | Secure file management system with OTP-based login and enterprise-grade authentication | `Security-First` `OTP` | Zero unauthorized access |
 | 🌡️ | **[Temperature Monitor](#)** | Real-time JavaScript-based IoT temperature tracker with live dashboard | `JavaScript` `Real-Time` | Live monitoring |
+
+---
+
+## 📐 DSA & Algorithmic Engineering
+
+I apply Data Structures & Algorithms principles to build high-performance systems:
+
+| Principle | Application | Impact |
+|-----------|-------------|--------|
+| **Tree Traversals** | Hierarchical data modeling (Rwanda Administrative API) | Efficient parent-child relationships |
+| **Graph Algorithms** | Routing optimization (OTS logistics platform) | Sub-second pathfinding |
+| **Dynamic Programming** | Scheduling algorithms (Mass Reader Scheduler) | Zero scheduling conflicts |
+| **Hash Maps & Sets** | O(1) lookups for real-time data | Instant data retrieval |
+| **Binary Search** | Quick filtering & searching | Fast query performance |
+| **Sorting Algorithms** | Data presentation & reporting | Organized outputs |
+
+---
+
+## 🗄️ Database Migration Expertise
+
+| Tool | Stack | Use Case |
+|------|-------|----------|
+| **Prisma** | Node.js / TypeScript | Type-safe database access, schema migrations, and ORM for Solertia Novarum platform |
+| **Flyway** | Java / Spring Boot | Version-controlled database migrations for the AI DevTools Benchmark API |
 
 ---
 
@@ -178,7 +207,7 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 
 <div align="center">
 
-Whether you need a **full-stack web platform**, **enterprise network infrastructure**, or a **complete digital transformation** — I bring both the code and the architecture.
+Whether you need a **full-stack web platform**, **enterprise network infrastructure**, **DSA-optimized systems**, or a **complete digital transformation** — I bring both the code and the architecture.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakusilas@gmail.com)
