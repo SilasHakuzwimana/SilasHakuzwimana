@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2D4E,100:00A878&height=200&section=header&text=Silas%20HAKUZWIMANA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Network%20Specialist%20%C2%B7%20UR-CST&descAlignY=58&descColor=a0f0d0&animation=fadeIn" alt="banner"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00A878&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Network+Infrastructure+Specialist+(CCNA+I%E2%80%93III);Security-First+Builder;UR-CST+%7C+Kigali%2C+Rwanda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00A878&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Enterprise+Platform+Architect;Network+Infrastructure+Specialist+(CCNA+I%E2%80%93III);Security-First+Builder;UR-CST+%7C+Kigali%2C+Rwanda)](https://git.io/typing-svg)
 
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-silashakuzwimana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
@@ -36,8 +36,9 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 <div align="center">
 
 ### 🖥️ Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -45,19 +46,12 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco_CCNA_I--III-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,9 +61,21 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Networking & Infrastructure
+![Cisco](https://img.shields.io/badge/Cisco_CCNA_I--III-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Reporting & Analytics
+![JSPDF](https://img.shields.io/badge/JSPDF-FF6C37?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -79,6 +85,9 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 
 | # | Project | Description | Stack | Impact |
 |---|---------|-------------|-------|--------|
+| 🏢 | **[Solertia Novarum Ltd - Enterprise Platform](#)** | Corporate website & admin dashboard with OTP authentication, multi-format reporting, and dynamic content management | `React 19` `TypeScript` `Node.js` `Express` `PostgreSQL` `TailwindCSS` `Docker` | 100% admin workflow automation · Production deployment |
+| 💼 | **[JobConnect - MERN Job Portal](#)** | Full-stack job portal with 2FA, role-based access, qualification matching, Cloudinary uploads & email notifications | `React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Nodemailer` | 3-tier user system · Admin approval workflows |
+| 🇷🇼 | **[Rwanda Administrative API](#)** | Open-source REST API covering Rwanda's complete administrative geography (Province → Village) | `Django` `DRF` `Python` `PostgreSQL` | Active community usage · Extensible design |
 | 🚌 | **[Online Transport System (OTS)](#)** | Logistics platform with automated vehicle scheduling, real-time fleet dashboard & REST API ecosystem | `Laravel` `Vue.js` `PostgreSQL` | 100% scheduling automation · Sub-second queries |
 | 🏫 | **[GS Mareba IMS](#)** | Internal school management system replacing paper-based records with digital student performance tracking | `PHP` `MySQL` `Bootstrap` | **95% student success rate** achieved |
 | 📅 | **[Mass Reader Scheduler](#)** | Secure liturgical coordination platform with real-time chat, automated notifications & security-first architecture | `Node.js` `REST APIs` | Zero missed assignments post-launch |
@@ -86,7 +95,6 @@ I'm a **Year III Computer & Software Engineering student at the University of Rw
 | 🎵 | **[Nyina Wa Jambo](#)** | Full-stack song management system with secure admin interface for metadata, scheduling & streaming resources | `PHP` `MySQL` | Cultural content digitized |
 | 🔒 | **[VaultCloud](#)** | Secure file management system with OTP-based login and enterprise-grade authentication | `Security-First` `OTP` | Zero unauthorized access |
 | 🌡️ | **[Temperature Monitor](#)** | Real-time JavaScript-based IoT temperature tracker with live dashboard | `JavaScript` `Real-Time` | Live monitoring |
-| 🖥️ | **[E-Learning Platform](#)** | Online learning platform tailored for Rwanda's education ecosystem *(in development)* | `Full-Stack` | 🚧 In Progress |
 
 ---
 
@@ -174,7 +182,8 @@ Whether you need a **full-stack web platform**, **enterprise network infrastruct
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silashakuzwimana)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakusilas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silasportfolio.ct.ws)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00A878?style=for-the-badge&logo=vercel&logoColor=white)](https://silas-portfolio-sooty.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilasHakuzwimana)
 
 <br/>
 
